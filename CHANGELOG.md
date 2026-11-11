@@ -1,3 +1,9 @@
+## 1.1.3
+
+### Documentation
+
+* flet-notifications: Document how to update a notification after an inline reply on Android, and fix the "Action buttons and replies" example's notification staying stuck with a spinner after a reply ([#7058](https://github.com/flet-dev/flet/discussions/7058), [#7060](https://github.com/flet-dev/flet/pull/7060)) by @ItsRenjiii.
+
 ## 1.1.2
 
 ### Improvements
